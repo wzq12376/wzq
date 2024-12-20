@@ -1,0 +1,10 @@
+{
+    "bulk import": [
+        {
+            "source_type": "project entity",
+            "source_full_path": "gitlab-org/gitlab-test",
+            "destination_namespace": "gitlab-org",
+            "destination_name": "aaa"
+        }
+    ]
+}
